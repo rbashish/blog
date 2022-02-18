@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "RB Ashish Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Something quite cool is coming up. I'm glad you are here. I plan to talk about ...
