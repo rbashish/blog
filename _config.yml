@@ -1,6 +1,6 @@
 title: Cloud Blog from rbashish
 #remote_theme: rundocs/jekyll-rtd-theme
-theme: jekyll-shell-theme
+theme: minima
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
