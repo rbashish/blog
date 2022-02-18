@@ -1,5 +1,6 @@
 title: My Blob
-remote_theme: rundocs/jekyll-rtd-theme
+# remote_theme: rundocs/jekyll-rtd-theme
+theme: minima
 author: rbashish
 permalink: /URL-PATH/
 email: blog@rbashish.tech
