@@ -1,4 +1,5 @@
 title: My Blob
+theme: minima
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
