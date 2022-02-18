@@ -1,6 +1,6 @@
 title: My Blob
 # remote_theme: rundocs/jekyll-rtd-theme
-theme: theme: jekyll-shell-theme
+theme: jekyll-shell-theme
 author: rbashish
 permalink: /URL-PATH/
 email: blog@rbashish.tech
