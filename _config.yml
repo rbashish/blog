@@ -1,12 +1,12 @@
 title: Cloud Blog from rbashish
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: jekyll-theme-time-machine
+theme: minima
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Public Cloud Expert and a technology analyst who is always willing to learn and grow
+  This blog is an example and he likes to write about cloud Technologies.
+  Find more way to connect with him on different social network
   
 url                      : https://git.rbashish.tech 
 baseurl                  : "/blog"
