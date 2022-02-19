@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 url: ""
-baseurl: "git.rbashish.tech/blog"
+baseurl: "/blog"
 
 # social links
 twitter_username: aashishlive # DO NOT include the @ character, or else the build will fail!
