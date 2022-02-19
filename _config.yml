@@ -16,3 +16,4 @@ twitter_username: aashishlive # DO NOT include the @ character, or else the buil
 github_username:  rbashish # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+show_sidebar: true 
