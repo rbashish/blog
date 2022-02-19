@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog"
       type: posts
     values:
       layout: single
