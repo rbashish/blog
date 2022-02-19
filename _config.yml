@@ -1,19 +1,19 @@
 title: Cloud Blog from rbashish
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: minima
+remote_theme: "wowthemesnet/mediumish-theme-jekyll8"
+#theme: minima
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
   A Public Cloud Expert and a technology analyst who is always willing to learn and grow
   This blog is an example and he likes to write about cloud Technologies.
   Find more way to connect with him on different social network
-  
+permalink: /:title/
 url                      : https://git.rbashish.tech 
 baseurl                  : "/blog"
 repository               : "rbashish/blog"
 
 # Outputting
-permalink: /:categories/:title/
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
