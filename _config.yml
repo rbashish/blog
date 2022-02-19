@@ -1,6 +1,6 @@
 title: Cloud Blog from rbashish
-#remote_theme: minimal-mistakes-jekyll
-theme: jekyll-theme-time-machine
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: jekyll-theme-time-machine
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,8 +8,24 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
   
+url                      : https://git.rbashish.tech io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "rbashish/blog"
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 # social links
 twitter_username: aashishlive # DO NOT include the @ character, or else the build will fail!
