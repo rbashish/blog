@@ -1,6 +1,7 @@
 ---
 title: "RB Ashish Blog"
 layout: default
+permalink: /blog
 ---
 
 
