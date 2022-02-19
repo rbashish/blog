@@ -1,6 +1,6 @@
 title: Cloud Blog from rbashish
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#theme: jekyll-theme-time-machine
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: jekyll-theme-time-machine
 author: rbashish
 email: blog@rbashish.tech
 description: > # this means to ignore newlines until "baseurl:"
